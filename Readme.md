@@ -36,4 +36,3 @@ git commit -m "Message"
 
 ## Merge in Git
 
-##
