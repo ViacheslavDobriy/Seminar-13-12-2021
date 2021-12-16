@@ -1,8 +1,9 @@
-# Instruction for Git
+# Instruction for begginers how to work in Git
 
 ## What is Git?
 
-Git is one of realization System Control Versions. It is the most famous realization in the world/
+Git is one of realization System Control Versions. It is the most famous realization in the world.
+
 ## Prepairing repository
 
 For creating repository we need to run command 
@@ -11,9 +12,6 @@ For creating repository we need to run command
 git init
 ```
 in folder with repository.
-
-## Creating "Saves"
-## Creating "commits"
 
 ### Git add
 
