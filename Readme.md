@@ -34,5 +34,5 @@ git commit -m "Message"
 
 ## Branches in Git
 
-## Merge in Git
+## Merge and delete in Git
 
