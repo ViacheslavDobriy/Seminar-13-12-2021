@@ -30,6 +30,12 @@ git commit -m "Message"
 
 ## Moving between saves
 
+If we have more than one branch inside our repository we can move between them. Use next command: 
+
+```sh
+git checkout "branch_name"
+```
+
 ## Log of actions
 
 If we want see all our commits we should use command:
