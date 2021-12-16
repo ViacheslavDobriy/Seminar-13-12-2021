@@ -32,6 +32,19 @@ git commit -m "Message"
 
 ## Log of actions
 
+If we want see all our commits we should use command:
+```sh
+git log 
+```
+But sometimes it takes a lot spaces in terminal and we can use a short version of this command and add option *"--oneline"*:
+```sh
+git log --oneline
+```
+And if we want see relationship between branches we can use command option *"--graph"*:
+```sh
+git log --graph
+```
+
 ## Branches in Git
 
 <<<<<<< HEAD
