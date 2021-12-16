@@ -34,5 +34,14 @@ git commit -m "Message"
 
 ## Branches in Git
 
+In the beggining our work with Git we have only one branch with name "master". If we want create more branches we need use next command:
+```sh
+git branch "new_branch_name"
+```
+For see all branches in your repository you can use:
+```sh
+git branch
+```
+
 ## Merge in Git
 
