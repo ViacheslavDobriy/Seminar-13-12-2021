@@ -58,6 +58,7 @@ And if we want see relationship between branches we can use command option *"--g
 ```sh
 git log --graph
 ```
+This command help to review all changes and commits, it's very comfort for team job.
 
 ## Branches in Git
 
