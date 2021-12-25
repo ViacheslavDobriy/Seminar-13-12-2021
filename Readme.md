@@ -1,4 +1,4 @@
-# Instruction for begginers how to work in Git
+# Instruction for begginers how to work in Git and remote repositories
 
 ## What is Git?
 
