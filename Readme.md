@@ -42,6 +42,7 @@ If we have more than one branch inside our repository we can move between them. 
 ```sh
 git checkout "branch_name"
 ```
+After all actions will be good if we will return to main branch with name "master"
 
 ## Log of actions
 
