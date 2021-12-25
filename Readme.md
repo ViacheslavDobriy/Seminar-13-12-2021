@@ -19,6 +19,15 @@ For adding changing in commit there is using command
 ```sh
 git add "file_name"
 ```
+
+### View status repository
+
+U should use 
+```sh
+git status
+```
+and after this command we can see some changes or not
+
 ### Creation commits
 
 For creating commit there is needed execute command 
